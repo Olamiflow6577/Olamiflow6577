@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Olamiflow6577
 - 👀 I’m interested in Computer Programming
 - 🌱 I’m currently learning HTML, CSS AND JAVASCRIPT
-- 💞️ I’m looking to collaborate with anyone
+- 💞️ I’m looking forward to collaborating with people for team work
 - 📫 How to reach me, WhatsApp +2348165772049
 
 <!---
